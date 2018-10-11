@@ -1,0 +1,146 @@
+{
+	"data_files": [
+		{
+			"data_file": "/mnt/ilustre/users/zhipeng.zhao/jobs/GPCR2Cancer/Sorted_GPCR_Final_Data/Methylation/new_Difference/LUSC.Normal.tsv",
+			"group_file": null,
+			"paired_file": "/mnt/ilustre/users/zhipeng.zhao/jobs/GPCR2Cancer/Sorted_GPCR_Final_Data/Methylation/new_Difference/LUSC.Cancer.tsv",
+			"cancer": "LUSC"
+		},
+		{
+			"data_file": "/mnt/ilustre/users/zhipeng.zhao/jobs/GPCR2Cancer/Sorted_GPCR_Final_Data/Methylation/new_Difference/CESC.Normal.tsv",
+			"group_file": null,
+			"paired_file": "/mnt/ilustre/users/zhipeng.zhao/jobs/GPCR2Cancer/Sorted_GPCR_Final_Data/Methylation/new_Difference/CESC.Cancer.tsv",
+			"cancer": "CESC"
+		},
+		{
+			"data_file": "/mnt/ilustre/users/zhipeng.zhao/jobs/GPCR2Cancer/Sorted_GPCR_Final_Data/Methylation/new_Difference/HNSC.Normal.tsv",
+			"group_file": null,
+			"paired_file": "/mnt/ilustre/users/zhipeng.zhao/jobs/GPCR2Cancer/Sorted_GPCR_Final_Data/Methylation/new_Difference/HNSC.Cancer.tsv",
+			"cancer": "HNSC"
+		},
+		{
+			"data_file": "/mnt/ilustre/users/zhipeng.zhao/jobs/GPCR2Cancer/Sorted_GPCR_Final_Data/Methylation/new_Difference/ESCA.Normal.tsv",
+			"group_file": null,
+			"paired_file": "/mnt/ilustre/users/zhipeng.zhao/jobs/GPCR2Cancer/Sorted_GPCR_Final_Data/Methylation/new_Difference/ESCA.Cancer.tsv",
+			"cancer": "ESCA"
+		},
+		{
+			"data_file": "/mnt/ilustre/users/zhipeng.zhao/jobs/GPCR2Cancer/Sorted_GPCR_Final_Data/Methylation/new_Difference/THCA.Normal.tsv",
+			"group_file": null,
+			"paired_file": "/mnt/ilustre/users/zhipeng.zhao/jobs/GPCR2Cancer/Sorted_GPCR_Final_Data/Methylation/new_Difference/THCA.Cancer.tsv",
+			"cancer": "THCA"
+		},
+		{
+			"data_file": "/mnt/ilustre/users/zhipeng.zhao/jobs/GPCR2Cancer/Sorted_GPCR_Final_Data/Methylation/new_Difference/LUAD.Normal.tsv",
+			"group_file": null,
+			"paired_file": "/mnt/ilustre/users/zhipeng.zhao/jobs/GPCR2Cancer/Sorted_GPCR_Final_Data/Methylation/new_Difference/LUAD.Cancer.tsv",
+			"cancer": "LUAD"
+		},
+		{
+			"data_file": "/mnt/ilustre/users/zhipeng.zhao/jobs/GPCR2Cancer/Sorted_GPCR_Final_Data/Methylation/new_Difference/SKCM.Normal.tsv",
+			"group_file": null,
+			"paired_file": "/mnt/ilustre/users/zhipeng.zhao/jobs/GPCR2Cancer/Sorted_GPCR_Final_Data/Methylation/new_Difference/SKCM.Cancer.tsv",
+			"cancer": "SKCM"
+		},
+		{
+			"data_file": "/mnt/ilustre/users/zhipeng.zhao/jobs/GPCR2Cancer/Sorted_GPCR_Final_Data/Methylation/new_Difference/CHOL.Normal.tsv",
+			"group_file": null,
+			"paired_file": "/mnt/ilustre/users/zhipeng.zhao/jobs/GPCR2Cancer/Sorted_GPCR_Final_Data/Methylation/new_Difference/CHOL.Cancer.tsv",
+			"cancer": "CHOL"
+		},
+		{
+			"data_file": "/mnt/ilustre/users/zhipeng.zhao/jobs/GPCR2Cancer/Sorted_GPCR_Final_Data/Methylation/new_Difference/PAAD.Normal.tsv",
+			"group_file": null,
+			"paired_file": "/mnt/ilustre/users/zhipeng.zhao/jobs/GPCR2Cancer/Sorted_GPCR_Final_Data/Methylation/new_Difference/PAAD.Cancer.tsv",
+			"cancer": "PAAD"
+		},
+		{
+			"data_file": "/mnt/ilustre/users/zhipeng.zhao/jobs/GPCR2Cancer/Sorted_GPCR_Final_Data/Methylation/new_Difference/LIHC.Normal.tsv",
+			"group_file": null,
+			"paired_file": "/mnt/ilustre/users/zhipeng.zhao/jobs/GPCR2Cancer/Sorted_GPCR_Final_Data/Methylation/new_Difference/LIHC.Cancer.tsv",
+			"cancer": "LIHC"
+		},
+		{
+			"data_file": "/mnt/ilustre/users/zhipeng.zhao/jobs/GPCR2Cancer/Sorted_GPCR_Final_Data/Methylation/new_Difference/STAD.Normal.tsv",
+			"group_file": null,
+			"paired_file": "/mnt/ilustre/users/zhipeng.zhao/jobs/GPCR2Cancer/Sorted_GPCR_Final_Data/Methylation/new_Difference/STAD.Cancer.tsv",
+			"cancer": "STAD"
+		},
+		{
+			"data_file": "/mnt/ilustre/users/zhipeng.zhao/jobs/GPCR2Cancer/Sorted_GPCR_Final_Data/Methylation/new_Difference/KIRP.Normal.tsv",
+			"group_file": null,
+			"paired_file": "/mnt/ilustre/users/zhipeng.zhao/jobs/GPCR2Cancer/Sorted_GPCR_Final_Data/Methylation/new_Difference/KIRP.Cancer.tsv",
+			"cancer": "KIRP"
+		},
+		{
+			"data_file": "/mnt/ilustre/users/zhipeng.zhao/jobs/GPCR2Cancer/Sorted_GPCR_Final_Data/Methylation/new_Difference/SARC.Normal.tsv",
+			"group_file": null,
+			"paired_file": "/mnt/ilustre/users/zhipeng.zhao/jobs/GPCR2Cancer/Sorted_GPCR_Final_Data/Methylation/new_Difference/SARC.Cancer.tsv",
+			"cancer": "SARC"
+		},
+		{
+			"data_file": "/mnt/ilustre/users/zhipeng.zhao/jobs/GPCR2Cancer/Sorted_GPCR_Final_Data/Methylation/new_Difference/PRAD.Normal.tsv",
+			"group_file": null,
+			"paired_file": "/mnt/ilustre/users/zhipeng.zhao/jobs/GPCR2Cancer/Sorted_GPCR_Final_Data/Methylation/new_Difference/PRAD.Cancer.tsv",
+			"cancer": "PRAD"
+		},
+		{
+			"data_file": "/mnt/ilustre/users/zhipeng.zhao/jobs/GPCR2Cancer/Sorted_GPCR_Final_Data/Methylation/new_Difference/COAD.Normal.tsv",
+			"group_file": null,
+			"paired_file": "/mnt/ilustre/users/zhipeng.zhao/jobs/GPCR2Cancer/Sorted_GPCR_Final_Data/Methylation/new_Difference/COAD.Cancer.tsv",
+			"cancer": "COAD"
+		},
+		{
+			"data_file": "/mnt/ilustre/users/zhipeng.zhao/jobs/GPCR2Cancer/Sorted_GPCR_Final_Data/Methylation/new_Difference/BRCA.Normal.tsv",
+			"group_file": null,
+			"paired_file": "/mnt/ilustre/users/zhipeng.zhao/jobs/GPCR2Cancer/Sorted_GPCR_Final_Data/Methylation/new_Difference/BRCA.Cancer.tsv",
+			"cancer": "BRCA"
+		},
+		{
+			"data_file": "/mnt/ilustre/users/zhipeng.zhao/jobs/GPCR2Cancer/Sorted_GPCR_Final_Data/Methylation/new_Difference/THYM.Normal.tsv",
+			"group_file": null,
+			"paired_file": "/mnt/ilustre/users/zhipeng.zhao/jobs/GPCR2Cancer/Sorted_GPCR_Final_Data/Methylation/new_Difference/THYM.Cancer.tsv",
+			"cancer": "THYM"
+		},
+		{
+			"data_file": "/mnt/ilustre/users/zhipeng.zhao/jobs/GPCR2Cancer/Sorted_GPCR_Final_Data/Methylation/new_Difference/READ.Normal.tsv",
+			"group_file": null,
+			"paired_file": "/mnt/ilustre/users/zhipeng.zhao/jobs/GPCR2Cancer/Sorted_GPCR_Final_Data/Methylation/new_Difference/READ.Cancer.tsv",
+			"cancer": "READ"
+		},
+		{
+			"data_file": "/mnt/ilustre/users/zhipeng.zhao/jobs/GPCR2Cancer/Sorted_GPCR_Final_Data/Methylation/new_Difference/GBM.Normal.tsv",
+			"group_file": null,
+			"paired_file": "/mnt/ilustre/users/zhipeng.zhao/jobs/GPCR2Cancer/Sorted_GPCR_Final_Data/Methylation/new_Difference/GBM.Cancer.tsv",
+			"cancer": "GBM"
+		},
+		{
+			"data_file": "/mnt/ilustre/users/zhipeng.zhao/jobs/GPCR2Cancer/Sorted_GPCR_Final_Data/Methylation/new_Difference/KIRC.Normal.tsv",
+			"group_file": null,
+			"paired_file": "/mnt/ilustre/users/zhipeng.zhao/jobs/GPCR2Cancer/Sorted_GPCR_Final_Data/Methylation/new_Difference/KIRC.Cancer.tsv",
+			"cancer": "KIRC"
+		},
+		{
+			"data_file": "/mnt/ilustre/users/zhipeng.zhao/jobs/GPCR2Cancer/Sorted_GPCR_Final_Data/Methylation/new_Difference/PCPG.Normal.tsv",
+			"group_file": null,
+			"paired_file": "/mnt/ilustre/users/zhipeng.zhao/jobs/GPCR2Cancer/Sorted_GPCR_Final_Data/Methylation/new_Difference/PCPG.Cancer.tsv",
+			"cancer": "PCPG"
+		},
+		{
+			"data_file": "/mnt/ilustre/users/zhipeng.zhao/jobs/GPCR2Cancer/Sorted_GPCR_Final_Data/Methylation/new_Difference/BLCA.Normal.tsv",
+			"group_file": null,
+			"paired_file": "/mnt/ilustre/users/zhipeng.zhao/jobs/GPCR2Cancer/Sorted_GPCR_Final_Data/Methylation/new_Difference/BLCA.Cancer.tsv",
+			"cancer": "BLCA"
+		},
+		{
+			"data_file": "/mnt/ilustre/users/zhipeng.zhao/jobs/GPCR2Cancer/Sorted_GPCR_Final_Data/Methylation/new_Difference/UCEC.Normal.tsv",
+			"group_file": null,
+			"paired_file": "/mnt/ilustre/users/zhipeng.zhao/jobs/GPCR2Cancer/Sorted_GPCR_Final_Data/Methylation/new_Difference/UCEC.Cancer.tsv",
+			"cancer": "UCEC"
+		}
+	],
+	"params": {
+		"field_name": null,
+		"sep_status": true
+	}
+}
