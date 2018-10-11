@@ -1,0 +1,8 @@
+pandas
+numpy
+scipy
+statsmodels
+graphviz	http://www.graphviz.org/
+pydot
+fisher
+shutil
